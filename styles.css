@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+div.main{
+	background-color:#f1f1f1;
+	border:none;
+	border-radius:1px;
+	width:400px;
+	height:580px;
+	text-align:center;
+	box-shadow:0px 10px 8px;
+}
+.sub{
+	width:300px;
+	position:relative;
+	left:50px;
+}
+button{
+	background-color:#fe625a;
+	color:white;
+	width:150px;
+	height:70px;
+	border:0px;
+	border-radius:15px;
+	font-size:18px;
+	font-weight:600;
+}
+img{
+	height:200px;
+	width:300px;
+	margin-top:50px;
+/* 	margin:50px 45px 0px 50px; */
+}
+h1{
+	font-size:53px;
+	font-weight:900;
+	margin:0px;
+}
+p{
+	font-size:25px;
+	font-weight:600;
+	margin:0px;
+	margin-bottom:20px;
+/* 	text-align:justify; */
+}
